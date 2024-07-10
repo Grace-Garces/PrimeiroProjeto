@@ -1,0 +1,14 @@
+C:\LogicaUdemy\bin\Debug\net8.0\LogicaUdemy.exe
+C:\LogicaUdemy\bin\Debug\net8.0\LogicaUdemy.deps.json
+C:\LogicaUdemy\bin\Debug\net8.0\LogicaUdemy.runtimeconfig.json
+C:\LogicaUdemy\bin\Debug\net8.0\LogicaUdemy.dll
+C:\LogicaUdemy\bin\Debug\net8.0\LogicaUdemy.pdb
+C:\LogicaUdemy\obj\Debug\net8.0\LogicaUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\LogicaUdemy\obj\Debug\net8.0\LogicaUdemy.AssemblyInfoInputs.cache
+C:\LogicaUdemy\obj\Debug\net8.0\LogicaUdemy.AssemblyInfo.cs
+C:\LogicaUdemy\obj\Debug\net8.0\LogicaUdemy.csproj.CoreCompileInputs.cache
+C:\LogicaUdemy\obj\Debug\net8.0\LogicaUdemy.dll
+C:\LogicaUdemy\obj\Debug\net8.0\refint\LogicaUdemy.dll
+C:\LogicaUdemy\obj\Debug\net8.0\LogicaUdemy.pdb
+C:\LogicaUdemy\obj\Debug\net8.0\LogicaUdemy.genruntimeconfig.cache
+C:\LogicaUdemy\obj\Debug\net8.0\ref\LogicaUdemy.dll
